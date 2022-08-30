@@ -1,0 +1,31 @@
+{
+  "cars": [
+    {
+      "title": "LEXUS IS 500",
+      "description": "A low, imposing stance. A distinctive singular taillamp that tapers to mere millimeters in the center. Dramatic character lines. The result? A pure sport sedan that looks as aggressive as it feels.",
+      "imageURL": "https://toyota.scene7.com/is/image/toyota/IS-gallery-5-desktop-1440x811-LEX-ISG-MY21-0063?wid=1440&hei=811",
+      "price": "58.000",
+      "firstName": "Fred",
+      "lastName": "Flintstone",
+      "id": 1
+    },
+    {
+      "title": "RZ 450e",
+      "description": "As the first globally available dedicated battery electric vehicle from Lexus, the new RZ marks the next step for the brand into a fully electrified future. The RZ 450e utilizes a dedicated battery electric platform to significantly evolve vehicle performance for an exhilarating drive. This Lexus-first platform offers high levels of stability and ride comfort by mounting the battery under the vehicle floor for a low center of gravity and moment of inertia.",
+      "imageURL": "https://toyota.scene7.com/is/image/toyota/lexus-rz-gallery-slide-desktop-1440x811-LEX-RZV-MY23-0024?wid=1440&hei=811",
+      "price": "112.000",
+      "firstName": "Fred",
+      "lastName": "Flintstone",
+      "id": 2
+    },
+    {
+      "title": "Lexus",
+      "description": "As the first globally available dedicated battery electric vehicle from Lexus, the new RZ marks the next step for the brand into a fully electrified future. The RZ 450e utilizes a dedicated battery electric platform to significantly evolve vehicle performance for an exhilarating drive. This Lexus-first platform offers high levels of stability and ride comfort by mounting the battery under the vehicle floor for a low center of gravity and moment of inertia.",
+      "imageURL": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/20211214-bev-14-1639491072.jpg",
+      "price": "100.000",
+      "firstName": "Fred",
+      "lastName": "Flintstone",
+      "id": 3
+    }
+  ]
+}
